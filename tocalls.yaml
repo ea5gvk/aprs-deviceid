@@ -1964,7 +1964,12 @@ tocalls:
  - tocall: "APZ*"
    vendor: Unknown
    model: Experimental
-
+   
+ - tocall: "APZADN"
+   vendor: Tetra-ADN Systems
+   model: TETRA Gateway
+   class: software
+   
  - tocall: APZ18
    vendor: IW3FQG
    model: UIdigi
